@@ -1,0 +1,14 @@
+<html> 
+<head>
+<title> Contacte </title>
+</head> 
+<body>
+<table bgcolor=lightblue> 
+<caption> CONTACTE </caption>
+<tr>
+<td >  Cucu Mihaela </td>
+<td> <a href="mailto:mihaelacucu45@gmail.com"> gmail  </a> </td>
+</tr>
+<tr>
+<td >  Cebotaru Jasmina </td>
+<td> <a href="mailto:cebotarugiulia@gmail.com"> gmail  </a> </td>
